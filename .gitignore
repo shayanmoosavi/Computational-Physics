@@ -1,0 +1,10 @@
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.gz
+
+/ODE Solving Algorithms/.idea/
+/ODE Solving Algorithms/.ipynb_checkpoints/
+/Hjorth-Jensen_lectures2015.pdf
